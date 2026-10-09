@@ -1,5 +1,5 @@
 # Git Scavenger Hunt
-
+Strawberrys
 This is a new line.
 
 Hey there, welcome to the scavenger hunt! 🥳
